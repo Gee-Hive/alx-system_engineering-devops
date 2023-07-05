@@ -11,3 +11,4 @@
 **File 10-back** is a script that changes a directory to the previous one
 **File 11-lists** is a script that run list all files of current and parent directory
 **File 12-file_type** is a script that return the type of a file
+**File 13-symbolic_link** is a script that returns a symkink
