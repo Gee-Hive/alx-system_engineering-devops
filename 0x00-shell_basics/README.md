@@ -12,3 +12,4 @@
 **File 11-lists** is a script that run list all files of current and parent directory
 **File 12-file_type** is a script that return the type of a file
 **File 13-symbolic_link** is a script that returns a symkink
+**File 14-copy_html** is a script that copies files to another directory
