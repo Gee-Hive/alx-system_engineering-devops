@@ -6,3 +6,4 @@
 **file 5-listfilesdigitonly** displays content of current directory with user and groupID
 **File 6-firstdirectory** runs a script to create a directory
 **File 7-movethatfile** run scripts to move a file
+**File 8-firstdelete** runs a script that deletes a file
