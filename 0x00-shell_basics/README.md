@@ -7,3 +7,4 @@
 **File 6-firstdirectory** runs a script to create a directory
 **File 7-movethatfile** run scripts to move a file
 **File 8-firstdelete** runs a script that deletes a file
+**File 9-firstdirdeletion** is a script that deletes a directory
