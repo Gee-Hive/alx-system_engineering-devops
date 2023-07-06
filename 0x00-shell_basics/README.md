@@ -17,3 +17,4 @@
 **File 101-clean_emacs** contains script commands that delete files with the tilde icon
 **File 102-tree** contains script commands to create directories
 **file 103-commas** return all files and directory
+**file school.mg** can be used with command type file to detect declared date files
