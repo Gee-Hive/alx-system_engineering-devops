@@ -15,3 +15,4 @@
 **File 14-copy_html** is a script that copies files to another directory
 **File 100-lets_move** contains a script that moves file with uppercase letter to another directory
 **File 101-clean_emacs** contains script commands that delete files with the tilde icon
+**File 102-tree** contains script commands to create directories
