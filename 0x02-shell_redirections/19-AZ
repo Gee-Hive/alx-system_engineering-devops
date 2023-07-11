@@ -1,2 +1,2 @@
 #!/bin/bash
-${string//[Ac]/Ze}
+echo ${string//[Ac]/Ze}
