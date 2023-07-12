@@ -11,6 +11,7 @@
 | 7-create_global_variable | creates a new global variable |
 | 8-true_knowledge | prints the result of the addition of 128 with the value stored in the environment variable
 | 9-divide_and_rule | prints the result of an arithmetic (/) of two environment variable|
-| 10-love_exponent_breath | prints the result of an arithmetic sign (**) fo two environmrnt variable |
+| 10-love_exponent_breath | prints the result of an arithmetic sign (power of) on two environmrnt variable |
 | 11-binary_to_decimal | converts a number from base 2 to base 10 |
-| 12-combinations | prints all possible combinations of two letters, except oo    
+| 12-combinations | prints all possible combinations of two letters |
+| 13-print_float | prints a number with two decimal places, followed by a new line |
